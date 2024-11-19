@@ -44,10 +44,10 @@ Ensure you have the following installed:
 
 # Smaple Images
 ### Sign In
-<img title="a title" alt="Alt text" src="/images/Screenshot (163).png">
+<img title="a title" alt="Alt text" src="/images/Screenshot (163).png"></img>
 ### Register
-<img title="a title" alt="Alt text" src="/images/Screenshot (164).png">
+<img title="a title" alt="Alt text" src="/images/Screenshot (164).png"></img>
 ### User Interface
-<img title="a title" alt="Alt text" src="/images/Screenshot (165).png">
+<img title="a title" alt="Alt text" src="/images/Screenshot (165).png"></img>
 ### Admin Interface 
-<img title="a title" alt="Alt text" src="/images/Screenshot (166).png">
+<img title="a title" alt="Alt text" src="/images/Screenshot (166).png"></img>
